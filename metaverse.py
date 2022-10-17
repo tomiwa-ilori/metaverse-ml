@@ -152,7 +152,7 @@ plt.show()
 
 """ Building the ML Algorithm """
 
-# performing the multiclass classification
+# performing the binary classification
 
 def run_prediction():
     X_train = train_data['cleaned_text']
